@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev" : "npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --watch",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --watch",
     "build": "npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --minify"
   },
   "devDependencies": {
